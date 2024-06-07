@@ -268,7 +268,7 @@ header nav ul li a:hover::after{
     bottom: -124px;
     left: 37px;
     z-index: -1;
-    transition: all 0.4s ease-in-out;
+    transition: all 0.5s ease-in-out;
     opacity: 0;
 }
 .why-item:hover::after{
