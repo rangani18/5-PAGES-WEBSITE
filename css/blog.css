@@ -58,7 +58,7 @@ header nav ul li a:hover::after{
 }
 /* banner  */
 .banner-after{
-    height: 800px;
+    height: 650px;
     position: relative;
     overflow: hidden;
     z-index: 0;
